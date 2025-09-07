@@ -8,6 +8,6 @@ int main(){
   scanf("%f", &len);
   printf("Enter width: ");
   scanf("%f", &wid);
-  printf("Area is: %f, Perimeter is %f", len*wid, 2*(len+wid));
+  printf("Area is: %f, Perimeter is %f\n", len*wid, 2*(len+wid));
   return 0;
 }
