@@ -1,3 +1,5 @@
+// Program to print size (in bytes) of various data types.
+
 #include <stdio.h>
 
 int main(){
